@@ -3202,6 +3202,10 @@
 
 		}
 
+	#nav .active {
+		background:#e5474b;
+		}
+
 	.navPanelToggle {
 		position: fixed;
 		text-decoration: none;
