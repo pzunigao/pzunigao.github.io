@@ -2527,7 +2527,7 @@
 
 	section .inner {
 		max-width: 65em;
-		width: calc(50% - 5em);
+		width: calc(55% - 5em);
 		margin: 0 auto;
 	}
 
