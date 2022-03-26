@@ -3202,10 +3202,12 @@
 
 		}
 
-	.navbar-nav > .active > a { 
-    		background-color: #F4F4F4; 
-		color:#E5474B;
-	}
+.navPanel li a:hover, .navbar-nav > .active > a {
+color: #fff !important;
+
+background-color:#2b8cc4 !important;
+background-image: none !important;
+}
 
 	.navPanelToggle {
 		position: fixed;
