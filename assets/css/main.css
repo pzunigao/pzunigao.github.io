@@ -3202,6 +3202,10 @@
 
 		}
 
+	.navbar-nav > .active > a { 
+    		background-color: color ; 
+	}
+
 	.navPanelToggle {
 		position: fixed;
 		text-decoration: none;
