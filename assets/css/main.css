@@ -3203,7 +3203,8 @@
 		}
 
 	.navbar-nav > .active > a { 
-    		background-color: #E5474B; 
+    		background-color: #F4F4F4; 
+		color:#E5474B;
 	}
 
 	.navPanelToggle {
