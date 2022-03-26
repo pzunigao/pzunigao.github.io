@@ -2527,15 +2527,15 @@
 
 	section .inner {
 		max-width: 65em;
-		width: calc(60% - 6em);
+		width: calc(50% - 5em);
 		margin: 0 auto;
 	}
 
 		@media screen and (max-width: 480px) {
 
 			section .inner {
-				max-width: 90%;
-				width: 90%;
+				max-width: 80%;
+				width: 80%;
 			}
 
 		}
