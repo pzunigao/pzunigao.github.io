@@ -1590,7 +1590,7 @@
 
 	body, input, select, textarea {
 		font-family: "Lato", sans-serif;
-		font-size: 15pt;
+		font-size: 12pt;
 		font-weight: 300;
 		line-height: 2;
 	}
@@ -1656,7 +1656,7 @@
 	}
 
 	p {
-		margin: 0 0 1.5em 0;
+		margin: 0 0 2.0em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
