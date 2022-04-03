@@ -3203,7 +3203,9 @@
 		}
 
 	#nav .active {
-		background:#e5474b;
+		font-size: 22px;
+		color:#e5474b;
+		margin: 0;
 		}
 
 	.navPanelToggle {
