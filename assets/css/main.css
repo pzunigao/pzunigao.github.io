@@ -3203,7 +3203,7 @@
 		}
 
 	#nav .active {
-		font-size: 22px;
+		/**font-size: 22px;**/
 		color:#e5474b;
 		margin: 0;
 		}
