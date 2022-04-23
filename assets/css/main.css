@@ -2384,7 +2384,7 @@ ol {
 	}
 
 		ol li {
-			padding-left: 0.25em;
+			padding-left: 1em;
 			margin:0;
 			padding-bottom:0;
 			padding-top:0;
@@ -2533,10 +2533,7 @@ ol {
 
 	ul {text-align: justify}
 	li {text-align: justify}
-	ul::after {width: 100%; display: inline-block; content: "."; visibility: hidden}
-	li::after {display: inline-block; content: "."; visibility: hidden}
-	li {display: inline-block; width: 80%;}
-	
+	ul::after {width: 100%; display: inline-block; content: "."; visibility: hidden}	
 	
 
 /* Section/Article */
