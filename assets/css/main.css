@@ -2532,8 +2532,10 @@ ol {
 	}
 
 	ul {text-align: justify}
-	ul::after {width: 80%; display: inline-block; content: "."; visibility: hidden}
-	li {display: inline-block}
+	li {text-align: justify}
+	ul::after {width: 100%; display: inline-block; content: "."; visibility: hidden}
+	li::after {display: inline-block; content: "."; visibility: hidden}
+	li {display: inline-block; width: 80%;}
 	
 	
 
