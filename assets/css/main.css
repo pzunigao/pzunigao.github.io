@@ -3646,15 +3646,15 @@ ol {
 		}
 
 			#two .inner article {
-				width: 40%;
+				width: 50%;
 			}
 
 				#two .inner article:first-child {
-					padding-right: 5em;
+					padding-right: 2em;
 				}
 
 				#two .inner article:last-child {
-					padding-left: 5em;
+					padding-left: 2em;
 				}
 
 		@media screen and (max-width: 980px) {
