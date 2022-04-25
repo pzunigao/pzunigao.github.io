@@ -3650,11 +3650,11 @@ ol {
 			}
 
 				#two .inner article:first-child {
-					padding-right: 3em;
+					padding-right: 5em;
 				}
 
 				#two .inner article:last-child {
-					padding-left: 4em;
+					padding-left: 5em;
 				}
 
 		@media screen and (max-width: 980px) {
