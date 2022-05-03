@@ -2362,7 +2362,13 @@
 		}
 
 			.image.fit img {
-				width: 60%;
+				width: 100%;
+				margin-left:auto;
+				margin-right:auto;
+			}
+
+			.image.fitlogo img {
+				width: 50%;
 				margin-left:auto;
 				margin-right:auto;
 			}
