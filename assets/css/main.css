@@ -2363,7 +2363,8 @@
 		}
 
 			.image.fit img {
-				width: 30%;
+				width: 50%;
+				align: center;
 			}
 
 		.image.main {
