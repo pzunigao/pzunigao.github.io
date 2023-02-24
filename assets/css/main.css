@@ -3171,7 +3171,7 @@ ol {
 		}
 
 			#header .logo:hover {
-				color: rgba(89, 137, 231, 0.5);
+				color: rgba(0, 0, 0, 0.1);
 			}
 
 		#header a {
@@ -3306,7 +3306,7 @@ ol {
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #1c1c1c;
+		background: #3274e3;
 		color: #fff;
 		height: 100%;
 		max-width: 80%;
