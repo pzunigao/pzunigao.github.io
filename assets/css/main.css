@@ -3171,7 +3171,7 @@ ol {
 		}
 
 			#header .logo:hover {
-				color: rgba(0, 0, 0, 0.1);
+				color: rgba(0, 0, 255, 0.1);
 			}
 
 		#header a {
@@ -3228,7 +3228,7 @@ ol {
 
 	#nav .active {
 		/**font-size: 22px;**/
-		color:#3173df;
+		color:#f8c202;
 		margin: 0;
 		}
 
