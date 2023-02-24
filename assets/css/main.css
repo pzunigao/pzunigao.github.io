@@ -1777,32 +1777,32 @@
 	}
 
 	input, select, textarea {
-		color: #e5474b;
+		color: #3274e3;
 	}
 
 	a {
-		color: #e5474b;
+		color: #3274e3;
 	}
 
 	strong, b {
-		color: #e5474b;
+		color: #3274e3;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #e5474b;
+		color: #3274e3;
 	}
 
 	blockquote {
-		border-left-color: #e5474b;
+		border-left-color: #3274e3;
 	}
 
 	code {
 		background: none;
-		border-color: #e5474b;
+		border-color: #3274e3;
 	}
 
 	hr {
-		border-bottom-color: #e5474b;
+		border-bottom-color: #3274e3;
 	}
 
 /* Box */
@@ -3171,7 +3171,7 @@ ol {
 		}
 
 			#header .logo:hover {
-				color: rgba(89, 137, 231, 0.8);
+				color: rgba(89, 137, 231, 0.5);
 			}
 
 		#header a {
