@@ -1777,32 +1777,32 @@
 	}
 
 	input, select, textarea {
-		color: #3274e3;
+		color: #449490;
 	}
 
 	a {
-		color: #3e7c7c;
+		color: #449490;
 	}
 
 	strong, b {
-		color: #3e7c7c;
+		color: #449490;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e7c7c;
+		color: #449490;
 	}
 
 	blockquote {
-		border-left-color: #3e7c7c;
+		border-left-color: #449490;
 	}
 
 	code {
 		background: none;
-		border-color: #3e7c7c;
+		border-color: #449490;
 	}
 
 	hr {
-		border-bottom-color: #3e7c7c;
+		border-bottom-color: #449490;
 	}
 
 /* Box */
@@ -3125,7 +3125,7 @@ ol {
 
 	#header {
 		background: #242424;
-		color:  #5be0bc;
+		color:  #ffffff;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3163,16 +3163,16 @@ ol {
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #5be0bc;
+			color: #449490;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
 			padding: 0;
 		}
 
-			#header .logo:hover {
+			/**#header .logo:hover {
 				color: rgba(240, 178, 16, 0.5);
-			}
+			}**/
 
 		#header a {
 			-moz-transition: color 0.2s ease-in-out;
@@ -3188,9 +3188,9 @@ ol {
 			font-size: .85em;
 		}
 
-			#header a:hover {
+			/**#header a:hover {
 				color: rgba(0, 148, 255, 0.1);
-			}
+			}**/
 
 			#header a:last-child {
 				padding-right: 2em;
