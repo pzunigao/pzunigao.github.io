@@ -3228,7 +3228,7 @@ ol {
 
 	#nav .active {
 		/**font-size: 22px;**/
-		color:#e5474b;
+		color:3274e2;
 		margin: 0;
 		}
 
@@ -3776,9 +3776,9 @@ ol {
 
 	#footer {
 		background-color: #e5474b;
-		color: #000000;
+		color: #ffffff;
 		padding: 4em 0 2em 0;
-		background: #e5474b;
+		background: #000000;
 	}
 
 		#footer input, #footer select, #footer textarea {
