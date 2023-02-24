@@ -3163,7 +3163,7 @@ ol {
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #e5474b;
+			color: #3274e3;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
@@ -3228,7 +3228,7 @@ ol {
 
 	#nav .active {
 		/**font-size: 22px;**/
-		color:#3274e2;
+		color:#77a1e9;
 		margin: 0;
 		}
 
