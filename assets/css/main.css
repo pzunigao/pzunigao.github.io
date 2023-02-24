@@ -3,7 +3,7 @@
 
 /*
 	Introspect by TEMPLATED
-	templated.co @templatedco
+	templated.co @templatedcou
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
@@ -3124,7 +3124,7 @@ ol {
 	}
 
 	#header {
-		background: #3274e3;
+		background: #005fff;
 		color: #d5d5d5;
 		cursor: default;
 		height: 5em;
@@ -3228,7 +3228,7 @@ ol {
 
 	#nav .active {
 		/**font-size: 22px;**/
-		color:#333333;
+		color:#000000;
 		margin: 0;
 		}
 
