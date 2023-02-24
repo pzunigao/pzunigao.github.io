@@ -3776,7 +3776,7 @@ ol {
 
 	#footer {
 		background-color: #e5474b;
-		color: #f2a3a5;
+		color: #000000;
 		padding: 4em 0 2em 0;
 		background: #e5474b;
 	}
@@ -3964,7 +3964,7 @@ ol {
 			}
 
 		#footer .copyright {
-			color: #f3e2e2;
+			color: #000000;
 			font-size: 1em;
 			margin: 0 0 2em 0;
 			padding: 0;
