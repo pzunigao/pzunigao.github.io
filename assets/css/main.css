@@ -3179,7 +3179,7 @@ ol {
 			display: inline-block;
 			padding: 0 2em;
 			color: #ffffff;
-			text-decoration: none;
+			text-decoration: underline;
 			text-transform: uppercase;
 			font-weight: 700;
 			font-size: .85em;
@@ -3225,7 +3225,7 @@ ol {
 
 	#nav .active {
 		color: #ffffff;
-		text-decoration: underline;
+		text-decoration: underline dotted #49aaa3;
 		margin: 0;
 		}
 
