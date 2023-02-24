@@ -3179,15 +3179,15 @@ ol {
 			display: inline-block;
 			padding: 0 2em;
 			color: #ffffff;
-			text-decoration: underline;
+			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
 			font-size: .85em;
 		}
 
-			/**#header a:hover {
-				color: rgba(0, 255, 136, 0.3);
-			}**/
+			#header a:hover {
+				text-decoration: underline;
+			}
 
 			#header a:last-child {
 				padding-right: 2em;
@@ -3224,8 +3224,8 @@ ol {
 		}
 
 	#nav .active {
-		color: #ffffff;
-		text-decoration: underline dotted #49aaa3;
+		color: #49aaa3;
+		text-decoration: underline;
 		margin: 0;
 		}
 
