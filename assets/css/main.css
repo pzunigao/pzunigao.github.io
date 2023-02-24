@@ -3124,7 +3124,7 @@ ol {
 	}
 
 	#header {
-		background: #000000;
+		background: #333333;
 		color:  #ffffff;
 		cursor: default;
 		height: 5em;
@@ -3775,10 +3775,10 @@ ol {
 /* Footer */
 
 	#footer {
-		background-color: #e5474b;
+		background-color: #333333;
 		color: #ffffff;
 		padding: 4em 0 2em 0;
-		background: #000000;
+		background: #333333;
 	}
 
 		#footer input, #footer select, #footer textarea {
