@@ -1781,28 +1781,28 @@
 	}
 
 	a {
-		color: #3274e3;
+		color: #3e7c7c;
 	}
 
 	strong, b {
-		color: #3274e3;
+		color: #3e7c7c;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3274e3;
+		color: #3e7c7c;
 	}
 
 	blockquote {
-		border-left-color: #3274e3;
+		border-left-color: #3e7c7c;
 	}
 
 	code {
 		background: none;
-		border-color: #3274e3;
+		border-color: #3e7c7c;
 	}
 
 	hr {
-		border-bottom-color: #3274e3;
+		border-bottom-color: #3e7c7c;
 	}
 
 /* Box */
@@ -3125,7 +3125,7 @@ ol {
 
 	#header {
 		background: #242424;
-		color:  #ffffff;
+		color:  #5be0bc;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3163,7 +3163,7 @@ ol {
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #ffffff;
+			color: #5be0bc;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
@@ -3181,7 +3181,7 @@ ol {
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #ffffff;
+			color: #5be0bc;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
@@ -3228,7 +3228,7 @@ ol {
 
 	#nav .active {
 		/**font-size: 22px;**/
-		color:#3b94f3;
+		color: rgba(240, 178, 16, 0.5);
 		margin: 0;
 		}
 
