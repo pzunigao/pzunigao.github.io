@@ -3163,16 +3163,13 @@ ol {
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #449490;
+			color: #ffffff;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
 			padding: 0;
 		}
 
-			/**#header .logo:hover {
-				color: rgba(240, 178, 16, 0.5);
-			}**/
 
 		#header a {
 			-moz-transition: color 0.2s ease-in-out;
@@ -3188,9 +3185,9 @@ ol {
 			font-size: .85em;
 		}
 
-			/**#header a:hover {
-				color: rgba(0, 148, 255, 0.1);
-			}**/
+			#header a:hover {
+				color: rgba(0, 255, 136, 0.3);
+			}
 
 			#header a:last-child {
 				padding-right: 2em;
@@ -3227,8 +3224,8 @@ ol {
 		}
 
 	#nav .active {
-		/**font-size: 22px;**/
-		color: rgba(240, 178, 16, 0.5);
+		color: #49aaa3;
+		text-decoration: underline;
 		margin: 0;
 		}
 
