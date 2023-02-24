@@ -3163,7 +3163,7 @@ ol {
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #3274e3;
+			color: #ffffff;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
@@ -3171,7 +3171,7 @@ ol {
 		}
 
 			#header .logo:hover {
-				color: rgba(229, 71, 75, 0.75);
+				color: rgba(89, 137, 231, 0.8);
 			}
 
 		#header a {
