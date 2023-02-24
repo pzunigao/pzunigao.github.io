@@ -3171,7 +3171,7 @@ ol {
 		}
 
 			#header .logo:hover {
-				color: rgba(0, 0, 255, 0.1);
+				color: rgba(0, 0, 0, 0);
 			}
 
 		#header a {
@@ -3189,7 +3189,7 @@ ol {
 		}
 
 			#header a:hover {
-				color: rgba(0,0,255,0.1);
+				color: rgba(0,0,0,0);
 			}
 
 			#header a:last-child {
