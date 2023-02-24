@@ -3124,8 +3124,8 @@ ol {
 	}
 
 	#header {
-		background: #005fff;
-		color: #d5d5d5;
+		background: #000000;
+		color:  #ffffff;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3228,7 +3228,7 @@ ol {
 
 	#nav .active {
 		/**font-size: 22px;**/
-		color:#000000;
+		color:#3173df;
 		margin: 0;
 		}
 
