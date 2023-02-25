@@ -18,7 +18,6 @@
 		vertical-align: baseline;
 	}
 
-	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
 
@@ -3186,7 +3185,7 @@ ol {
 		}
 
 			#header a:hover {
-				text-decoration: underline;
+				color: #fAf7b4;
 			}
 
 			#header a:last-child {
