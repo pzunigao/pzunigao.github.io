@@ -3123,8 +3123,8 @@ ol {
 	}
 
 	#header {
-		background: #2f6a64;/**#242424;**/
-		color:  #fffff;
+		background: #242424;
+		color:  #ffffff;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3177,7 +3177,7 @@ ol {
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #fffff;
+			color: #ffffff;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
