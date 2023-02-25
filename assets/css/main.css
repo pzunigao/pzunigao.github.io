@@ -3154,8 +3154,7 @@ ol {
 			}
 
 		#header .logo {
-			font-family: 'Lobster', cursive;
-			font-family: 'Roboto', sans-serif;	 /**font-family: 'Pacifico', cursive;**/
+			font-family: 'Lobster', cursive; /* font-family: 'Pacifico', cursive; */
 			display: inline-block;
 			height: inherit;
 			left: 0;
