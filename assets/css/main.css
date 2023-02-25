@@ -3124,7 +3124,7 @@ ol {
 
 	#header {
 		background: #2f6a64;/**#242424;**/
-		color:  #49aaa3;
+		color:  #fffff;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3162,7 +3162,7 @@ ol {
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #49aaa3;
+			color: #fffff;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
@@ -3177,7 +3177,7 @@ ol {
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #49aaa3;
+			color: #fffff;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
@@ -3223,7 +3223,8 @@ ol {
 		}
 
 	#nav .active {
-		color: #081211;
+		color: #ffffff;
+		text-decoration: underline;
 		margin: 0;
 		}
 
