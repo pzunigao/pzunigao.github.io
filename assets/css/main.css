@@ -3181,12 +3181,13 @@ ol {
 			color: #ffffff;
 			text-decoration: none;
 			text-transform: uppercase;
-			font-weight: 700;
+			font-weight: 800;
 			font-size: .85em;
 		}
 
 			#header a:hover {
 				color: #70c2bc;
+				font-weight: 800;
 			}
 
 			#header a:last-child {
