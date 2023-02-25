@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico");
-@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
 
 /*
 	Introspect by TEMPLATED
@@ -3154,7 +3154,7 @@ ol {
 			}
 
 		#header .logo {
-			font-family: 'Secular One', sans-serif;
+			font-family: 'Merienda One', cursive;
 			display: inline-block;
 			height: inherit;
 			left: 0;
@@ -3187,7 +3187,6 @@ ol {
 
 			#header a:hover {
 				color: #70c2bc;
-				font-weight: 800;
 			}
 
 			#header a:last-child {
