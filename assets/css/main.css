@@ -3177,7 +3177,7 @@ ol {
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #95dedc;
+			color: #d1eaea;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
@@ -3185,7 +3185,7 @@ ol {
 		}
 
 			#header a:hover {
-				color: #2bc6c2;
+				color: #49aaa3;
 			}
 
 			#header a:last-child {
@@ -3223,7 +3223,7 @@ ol {
 		}
 
 	#nav .active {
-		color: #ffffff;
+		color: #49aaa3;
 		margin: 0;
 		}
 
