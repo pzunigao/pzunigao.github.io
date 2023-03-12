@@ -3768,6 +3768,20 @@ ol {
 
 		}
 
+/* Footer Columns */
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Footer */
 
 	#footer {
@@ -3953,21 +3967,6 @@ ol {
 			@media screen and (max-width: 480px) {
 
 				#footer .inner {
-					max-width: 90%;
-					width: 90%;
-				}
-
-			}
-
-		#footer .center {
-			max-width: 65em;
-			width: calc(100% - 6em);
-			margin: 0 auto;
-		}
-
-			@media screen and (max-width: 480px) {
-
-				#footer .center {
 					max-width: 90%;
 					width: 90%;
 				}
