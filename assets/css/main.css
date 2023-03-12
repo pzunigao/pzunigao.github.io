@@ -3959,6 +3959,21 @@ ol {
 
 			}
 
+		#footer .center {
+			max-width: 65em;
+			width: calc(100% - 6em);
+			margin: 0 auto;
+		}
+
+			@media screen and (max-width: 480px) {
+
+				#footer .center {
+					max-width: 90%;
+					width: 90%;
+				}
+
+			}
+
 		#footer .copyright {
 			color: #ffffff;
 			font-size: 1em;
