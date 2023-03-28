@@ -1590,8 +1590,8 @@
 
 	body, input, select, textarea {
 		font-family: Verdana, Arial, sans-serif; /*"Lato", sans-serif;*/
-		font-size: 14pt;
-		font-weight: normal;
+		font-size: 12pt;
+		font-weight: 350;
 		line-height: 2;
 	}
 
