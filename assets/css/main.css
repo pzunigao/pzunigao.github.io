@@ -1593,7 +1593,7 @@
 	body, input, select, textarea {
 		font-family: 'Roboto', sans-serif;
 		font-size: 15pt;
-		font-weight: 350;
+		/*font-weight: 350;*/
 		line-height: 2;
 	}
 
