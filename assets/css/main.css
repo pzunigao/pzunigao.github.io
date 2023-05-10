@@ -2550,7 +2550,7 @@ ol {
 	}
 
 	section .inner {
-		max-width: 64em;
+		max-width: 63em;
 		width: calc(65% - 5em);
 		margin: 0 auto;
 	}
