@@ -2551,7 +2551,7 @@ ol {
 
 	section .inner {
 		max-width: 70em;
-		width: calc(80% - 5em);
+		width: calc(80% - 10em);
 		margin: 0 auto;
 	}
 
