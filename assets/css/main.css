@@ -2555,7 +2555,7 @@ ol {
 	}
 
 	section .inner {
-		max-width: 85em;
+		max-width: 90em;
 		width: calc(70% - 5em);
 		margin: 0 auto;
 	}
