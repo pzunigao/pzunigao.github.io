@@ -1594,7 +1594,7 @@
 	body, input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif; 
 		/**'Noto Sans', sans-serif;**/
-		font-size: 19pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #333;
@@ -2555,8 +2555,8 @@ ol {
 	}
 
 	section .inner {
-		max-width: 100em;
-		width: calc(85% - 5em);
+		max-width: 80em;
+		width: calc(65% - 5em);
 		margin: 0 auto;
 	}
 
